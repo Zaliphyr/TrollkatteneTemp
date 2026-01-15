@@ -1,6 +1,7 @@
 {
   "redirects": [
     { "source": "/", "destination": "https://www.etsy.com/shop/Egylon", "permanent": false },
-    { "source": "/jadepusen", "destination": "https://t.me/Jadepusen", "permanent": false }
+    { "source": "/jadepusen", "destination": "https://t.me/Jadepusen", "permanent": false },
+    { "source": "/othellia", "destination": "https://t.me/Othellia", "permanent": false }
   ]
 }
