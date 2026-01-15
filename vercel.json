@@ -1,0 +1,6 @@
+{
+  "redirects": [
+    { "source": "/", "destination": "https://www.etsy.com/shop/Egylon", "permanent": false },
+    { "source": "/jadepusen", "destination": "https://t.me/Jadepusen", "permanent": false }
+  ]
+}
