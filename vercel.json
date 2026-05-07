@@ -3,5 +3,6 @@
     { "source": "/", "destination": "https://www.etsy.com/shop/Egylon", "permanent": false },
     { "source": "/jadepusen", "destination": "https://www.instagram.com/jadepusen/", "permanent": false },
     { "source": "/othellia", "destination": "https://t.me/Othellia", "permanent": false }
+    { "source": "/zaliphyr", "destination": "https://drive.google.com/file/d/147I6Ha-1q8UewYV0X5-zWJ_JsXy5v3Fw/view?usp=sharing", "permanent": false }
   ]
 }
